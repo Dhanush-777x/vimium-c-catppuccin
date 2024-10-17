@@ -1,0 +1,8 @@
+# Insert your preferred key mappings here.
+unmap f
+unmap i
+unmap m
+unmap /
+map F LinkHints.activate
+map K previousTab
+map J nextTab
