@@ -12,6 +12,8 @@ Catppuccin mocha - lavendar theme for vimium c Chrome Extension
 
 ![Catppuccin-Theme](./images/vimium-c_catppuccin_theme.png)
 
+### Catppuccin Mocha Glassmorphic Theme
+
 - Copy the contents of vimium-c_glassmorphic_effect.css file into Custom CSS for Vimium C UI text box
 
 ![Catppuccin-Glassmorphic-Theme](./images/vimium-c_glassmorphic_theme.png)
