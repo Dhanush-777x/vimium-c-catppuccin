@@ -1,7 +1,6 @@
 /*
 vimium-c Catppuccin Mocha theme with glassmorphism effect
 (c) 2025 Dhanush S M
-https://github.com/Dhanush-777x/vimium-c-catppuccin.git
 */
 
 /* #ui */
@@ -26,7 +25,7 @@ https://github.com/Dhanush-777x/vimium-c-catppuccin.git
 
 .LH:before {
   position: absolute;
-  background: rgba(180, 191, 254, 0.3); 
+  background: #b4befe; 
   top: 0;
   left: 0;
   right: 0;
@@ -82,7 +81,7 @@ https://github.com/Dhanush-777x/vimium-c-catppuccin.git
 .HUD:after {
   border-radius: unset;
   border: none;
-  background: rgba(180, 191, 254, 0.3); 
+  background: #b4befe; 
 }
 
 .HUD.D {
@@ -90,7 +89,7 @@ https://github.com/Dhanush-777x/vimium-c-catppuccin.git
 }
 
 .HUD.D:after {
-  background: rgba(180, 191, 254, 0.3);
+  background: #b4befe;
 }
 
 /* #omni */
@@ -411,4 +410,3 @@ body.D {
 .D #i {
   color: #ffffff;
 }
-
